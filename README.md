@@ -1,2 +1,2 @@
-# medcalc.github.io
+# medcalc
 test page
